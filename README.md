@@ -22,7 +22,7 @@
 
 # Global Guesser App
 -  Guessing game where the user is given an image from a location in the world and they have to place a pin on the map to gues its location.
--  Renders a real world map for users to place a pin and allows users to switch between the map and score screen using the bottom right cube.
+-  Renders a real world map using an open source react-native-map component for users to place a pin and allows users to switch between the map and score screen using the bottom right cube.
 -  Shows a line between the actual and predicted pins, and calculates user score logarithmicaly using distance between the pins.
 
 ![](./imgs/IMG_7528.jpg)      ![](./imgs/IMG_7529.jpg)    ![](./imgs/IMG_7531.jpg)
