@@ -13,6 +13,14 @@
 
 ![](./imgs/IMG_7419.jpg)
 
+# Drawing App
+- A drawing app that utilizes an open-source canvas component to render in finger strokes; allowing users to draw on the screen.
+- Users can draw several types of shapes on the screen and have various colors to choose from.
+- As a demonstration, I drew the Android logo to display the capability and performance of the application.
+
+![](./imgs/IMG_7564.jpg)
+
+
 # Tilt App
 - Video game where the user controls the movement of sonic by tilting the phone.
 - Fetches data from phone's accelerometer and processes it as movement for sonic depending on the level of the phone tilt.
