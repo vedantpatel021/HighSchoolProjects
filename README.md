@@ -1,5 +1,6 @@
 # Table of Contents
 - [Forecast App](#forecast-app)
+- [Drawing App](#drawing-app)
 - [Tilt App](#tilt-app)
 - [Global Guesser App](#global-guesser-app)
 - [Stopwatch App](#stopwatch-app)
